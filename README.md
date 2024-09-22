@@ -2,6 +2,6 @@
 
 ## Resumo
 
-Este projeto foi criado para aplicar os conhecimentos adquiridos no módulo de Análise de Dados do curso de Especialização em Ciência de Dados e Analytics da PUC-Rio. O objetivo é desenvolver um MVP (produto mínimo viável) que tire informações de um dataset e mostre, de forma visual, todas as informações extraídas.
+Este projeto foi criado para aplicar os conhecimentos adquiridos no módulo de Análise de Dados do curso de Especialização em Ciência de Dados e Analytics da PUC-Rio. O objetivo é desenvolver um MVP (produto mínimo viável) que tire informações de um dataset e mostre, de forma visual, todas as informações extraídas. Além disso, o objetivo desse projeto é tentar ver alguma relação de produção bem-sucedida com relação ao país que ajudou na criação dessa obra, além dos gêneros mais aclamados pelo público.
 
 Os dados para este projeto foram obtidos a partir da pesquisa "Netflix TV Shows and Movies", que contém informações relevantes sobre aproximadamente 5.000 títulos da plataforma Netflix. O estudo inicial foi realizado por Victor Soeiro e foi publicado na plataforma Kaggle, estando disponível para consulta pública em [Kaggle](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies).
